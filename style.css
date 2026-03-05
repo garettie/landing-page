@@ -24,7 +24,6 @@ body {
 
 ul {
   display: flex;
-  justify-content: space-evenly;
   gap: 20px;
   list-style: none;
   margin: 0;
